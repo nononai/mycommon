@@ -1,8 +1,8 @@
 package uniqueid
 
 import (
-	"codeup.aliyun.com/647998340ce788fc1c0761a8/my_common/tool"
 	"fmt"
+	"github.com/nononai/mycommon/tool"
 	"time"
 )
 

@@ -1,4 +1,4 @@
-module codeup.aliyun.com/647998340ce788fc1c0761a8/my_common
+module github.com/nononai/mycommon
 
 go 1.20
 
